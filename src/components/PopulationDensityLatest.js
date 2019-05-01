@@ -36,7 +36,7 @@ const PopulationDensityLatest = props => {
     return (
         <div className="row">
             <header className="darken-1 section">
-                <h2 className="center">Vietnam Population Density in { data ? data[0].year : '<year>' }</h2>
+                <h2 className="center">Vietnam Population Density in { data ? data[0].year : '<loading year...>' }</h2>
             </header>
             <div className="col s12 m12 l8">
                 <BubbleChart data = { data } redirectTo = { redirectTo }/>
