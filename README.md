@@ -7,9 +7,8 @@ This project uses:
 - <a href='https://www.d3-graph-gallery.com/graph/circularpacking_template.html'>d3 circular packing example</a>
 
 ## Live demo
-Here: [https://vietnam-population-density.firebaseapp.com/]
-Source: [https://github.com/phun0020/Vietnam-population-density]
-
+- Here: https://vietnam-population-density.firebaseapp.com/
+- Source: https://github.com/phun0020/Vietnam-population-density
 
 ## Available Scripts
 
