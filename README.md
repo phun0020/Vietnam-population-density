@@ -10,6 +10,8 @@ This project uses:
 - Here: https://vietnam-population-density.firebaseapp.com/
 - Source: https://github.com/phun0020/Vietnam-population-density
 
+![alt text](https://raw.githubusercontent.com/phun0020/Vietnam-population-density/master/demo.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
