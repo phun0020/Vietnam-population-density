@@ -1,0 +1,2104 @@
+{
+  "density-by-area": {
+    "0": {
+      "region": "none",
+      "area": "CẢ NƯỚC",
+      "density": [
+        {
+          "year": 2011,
+          "value": 265.5
+        },
+        {
+          "year": 2012,
+          "value": 268.3
+        },
+        {
+          "year": 2013,
+          "value": 271.2
+        },
+        {
+          "year": 2014,
+          "value": 274
+        },
+        {
+          "year": 2015,
+          "value": 277
+        },
+        {
+          "year": 2016,
+          "value": 280
+        }
+      ]
+    },
+    "1": {
+      "region": "none",
+      "area": "Đồng bằng sông Hồng",
+      "density": [
+        {
+          "year": 2011,
+          "value": 952.4
+        },
+        {
+          "year": 2012,
+          "value": 963.1
+        },
+        {
+          "year": 2013,
+          "value": 972.6
+        },
+        {
+          "year": 2014,
+          "value": 983
+        },
+        {
+          "year": 2015,
+          "value": 994
+        },
+        {
+          "year": 2016,
+          "value": 994
+        }
+      ]
+    },
+    "2": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Hà Nội",
+      "density": [
+        {
+          "year": 2011,
+          "value": 2031.1
+        },
+        {
+          "year": 2012,
+          "value": 2065.6
+        },
+        {
+          "year": 2013,
+          "value": 2098.8
+        },
+        {
+          "year": 2014,
+          "value": 2134
+        },
+        {
+          "year": 2015,
+          "value": 2171
+        },
+        {
+          "year": 2016,
+          "value": 2182
+        }
+      ]
+    },
+    "3": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Vĩnh Phúc",
+      "density": [
+        {
+          "year": 2011,
+          "value": 818
+        },
+        {
+          "year": 2012,
+          "value": 826.8
+        },
+        {
+          "year": 2013,
+          "value": 831.1
+        },
+        {
+          "year": 2014,
+          "value": 842
+        },
+        {
+          "year": 2015,
+          "value": 852
+        },
+        {
+          "year": 2016,
+          "value": 863
+        }
+      ]
+    },
+    "4": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Bắc Ninh",
+      "density": [
+        {
+          "year": 2011,
+          "value": 1292.6
+        },
+        {
+          "year": 2012,
+          "value": 1319.8
+        },
+        {
+          "year": 2013,
+          "value": 1347
+        },
+        {
+          "year": 2014,
+          "value": 1375
+        },
+        {
+          "year": 2015,
+          "value": 1404
+        },
+        {
+          "year": 2016,
+          "value": 1432
+        }
+      ]
+    },
+    "5": {
+      "region": "Đông Bắc Bộ",
+      "area": "Quảng Ninh",
+      "density": [
+        {
+          "year": 2011,
+          "value": 191.4
+        },
+        {
+          "year": 2012,
+          "value": 193
+        },
+        {
+          "year": 2013,
+          "value": 194.6
+        },
+        {
+          "year": 2014,
+          "value": 197
+        },
+        {
+          "year": 2015,
+          "value": 199
+        },
+        {
+          "year": 2016,
+          "value": 198
+        }
+      ]
+    },
+    "6": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Hải Dương",
+      "density": [
+        {
+          "year": 2011,
+          "value": 1044.6
+        },
+        {
+          "year": 2012,
+          "value": 1051.8
+        },
+        {
+          "year": 2013,
+          "value": 1057.9
+        },
+        {
+          "year": 2014,
+          "value": 1065
+        },
+        {
+          "year": 2015,
+          "value": 1072
+        },
+        {
+          "year": 2016,
+          "value": 1070
+        }
+      ]
+    },
+    "7": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Hải Phòng",
+      "density": [
+        {
+          "year": 2011,
+          "value": 1234
+        },
+        {
+          "year": 2012,
+          "value": 1249.5
+        },
+        {
+          "year": 2013,
+          "value": 1260.4
+        },
+        {
+          "year": 2014,
+          "value": 1274
+        },
+        {
+          "year": 2015,
+          "value": 1285
+        },
+        {
+          "year": 2016,
+          "value": 1268
+        }
+      ]
+    },
+    "8": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Hưng Yên",
+      "density": [
+        {
+          "year": 2011,
+          "value": 1229.4
+        },
+        {
+          "year": 2012,
+          "value": 1235.5
+        },
+        {
+          "year": 2013,
+          "value": 1243.6
+        },
+        {
+          "year": 2014,
+          "value": 1251
+        },
+        {
+          "year": 2015,
+          "value": 1257
+        },
+        {
+          "year": 2016,
+          "value": 1258
+        }
+      ]
+    },
+    "9": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Thái Bình",
+      "density": [
+        {
+          "year": 2011,
+          "value": 1137.5
+        },
+        {
+          "year": 2012,
+          "value": 1138.5
+        },
+        {
+          "year": 2013,
+          "value": 1138.6
+        },
+        {
+          "year": 2014,
+          "value": 1139
+        },
+        {
+          "year": 2015,
+          "value": 1139
+        },
+        {
+          "year": 2016,
+          "value": 1128
+        }
+      ]
+    },
+    "10": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Hà Nam",
+      "density": [
+        {
+          "year": 2011,
+          "value": 914.5
+        },
+        {
+          "year": 2012,
+          "value": 920.6
+        },
+        {
+          "year": 2013,
+          "value": 925
+        },
+        {
+          "year": 2014,
+          "value": 927
+        },
+        {
+          "year": 2015,
+          "value": 931
+        },
+        {
+          "year": 2016,
+          "value": 932
+        }
+      ]
+    },
+    "11": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Nam Định",
+      "density": [
+        {
+          "year": 2011,
+          "value": 1110.3
+        },
+        {
+          "year": 2012,
+          "value": 1110.4
+        },
+        {
+          "year": 2013,
+          "value": 1113.2
+        },
+        {
+          "year": 2014,
+          "value": 1116
+        },
+        {
+          "year": 2015,
+          "value": 1119
+        },
+        {
+          "year": 2016,
+          "value": 1110
+        }
+      ]
+    },
+    "12": {
+      "region": "Đồng bằng sông Hồng",
+      "area": "Ninh Bình",
+      "density": [
+        {
+          "year": 2011,
+          "value": 652.9
+        },
+        {
+          "year": 2012,
+          "value": 667.6
+        },
+        {
+          "year": 2013,
+          "value": 672.8
+        },
+        {
+          "year": 2014,
+          "value": 679
+        },
+        {
+          "year": 2015,
+          "value": 686
+        },
+        {
+          "year": 2016,
+          "value": 687
+        }
+      ]
+    },
+    "13": {
+      "region": "none",
+      "area": "Trung du và miền núi phía Bắc",
+      "density": [
+        {
+          "year": 2011,
+          "value": 118.6
+        },
+        {
+          "year": 2012,
+          "value": 119.8
+        },
+        {
+          "year": 2013,
+          "value": 121.1
+        },
+        {
+          "year": 2014,
+          "value": 122
+        },
+        {
+          "year": 2015,
+          "value": 124
+        },
+        {
+          "year": 2016,
+          "value": 126
+        }
+      ]
+    },
+    "14": {
+      "region": "Đông Bắc Bộ",
+      "area": "Hà Giang",
+      "density": [
+        {
+          "year": 2011,
+          "value": 94.3
+        },
+        {
+          "year": 2012,
+          "value": 96.2
+        },
+        {
+          "year": 2013,
+          "value": 98
+        },
+        {
+          "year": 2014,
+          "value": 100
+        },
+        {
+          "year": 2015,
+          "value": 101
+        },
+        {
+          "year": 2016,
+          "value": 103
+        }
+      ]
+    },
+    "15": {
+      "region": "Đông Bắc Bộ",
+      "area": "Cao Bằng",
+      "density": [
+        {
+          "year": 2011,
+          "value": 76.6
+        },
+        {
+          "year": 2012,
+          "value": 76.8
+        },
+        {
+          "year": 2013,
+          "value": 77.2
+        },
+        {
+          "year": 2014,
+          "value": 78
+        },
+        {
+          "year": 2015,
+          "value": 78
+        },
+        {
+          "year": 2016,
+          "value": 79
+        }
+      ]
+    },
+    "16": {
+      "region": "Đông Bắc Bộ",
+      "area": "Bắc Kạn",
+      "density": [
+        {
+          "year": 2011,
+          "value": 61.8
+        },
+        {
+          "year": 2012,
+          "value": 62.4
+        },
+        {
+          "year": 2013,
+          "value": 62.8
+        },
+        {
+          "year": 2014,
+          "value": 63
+        },
+        {
+          "year": 2015,
+          "value": 64
+        },
+        {
+          "year": 2016,
+          "value": 66
+        }
+      ]
+    },
+    "17": {
+      "region": "Đông Bắc Bộ",
+      "area": "Tuyên Quang",
+      "density": [
+        {
+          "year": 2011,
+          "value": 125.3
+        },
+        {
+          "year": 2012,
+          "value": 126.3
+        },
+        {
+          "year": 2013,
+          "value": 127.3
+        },
+        {
+          "year": 2014,
+          "value": 128
+        },
+        {
+          "year": 2015,
+          "value": 130
+        },
+        {
+          "year": 2016,
+          "value": 131
+        }
+      ]
+    },
+    "18": {
+      "region": "Tây Bắc Bộ",
+      "area": "Lào Cai",
+      "density": [
+        {
+          "year": 2011,
+          "value": 99.8
+        },
+        {
+          "year": 2012,
+          "value": 101.3
+        },
+        {
+          "year": 2013,
+          "value": 102.7
+        },
+        {
+          "year": 2014,
+          "value": 104
+        },
+        {
+          "year": 2015,
+          "value": 106
+        },
+        {
+          "year": 2016,
+          "value": 108
+        }
+      ]
+    },
+    "19": {
+      "region": "Tây Bắc Bộ",
+      "area": "Yên Bái",
+      "density": [
+        {
+          "year": 2011,
+          "value": 110.2
+        },
+        {
+          "year": 2012,
+          "value": 111.2
+        },
+        {
+          "year": 2013,
+          "value": 112.5
+        },
+        {
+          "year": 2014,
+          "value": 114
+        },
+        {
+          "year": 2015,
+          "value": 115
+        },
+        {
+          "year": 2016,
+          "value": 116
+        }
+      ]
+    },
+    "20": {
+      "region": "Đông Bắc Bộ",
+      "area": "Thái Nguyên",
+      "density": [
+        {
+          "year": 2011,
+          "value": 322.6
+        },
+        {
+          "year": 2012,
+          "value": 325.1
+        },
+        {
+          "year": 2013,
+          "value": 326.9
+        },
+        {
+          "year": 2014,
+          "value": 332
+        },
+        {
+          "year": 2015,
+          "value": 337
+        },
+        {
+          "year": 2016,
+          "value": 348
+        }
+      ]
+    },
+    "21": {
+      "region": "Đông Bắc Bộ",
+      "area": "Lạng Sơn",
+      "density": [
+        {
+          "year": 2011,
+          "value": 89
+        },
+        {
+          "year": 2012,
+          "value": 89.6
+        },
+        {
+          "year": 2013,
+          "value": 90.1
+        },
+        {
+          "year": 2014,
+          "value": 91
+        },
+        {
+          "year": 2015,
+          "value": 91
+        },
+        {
+          "year": 2016,
+          "value": 92
+        }
+      ]
+    },
+    "22": {
+      "region": "Đông Bắc Bộ",
+      "area": "Bắc Giang",
+      "density": [
+        {
+          "year": 2011,
+          "value": 411.5
+        },
+        {
+          "year": 2012,
+          "value": 413.9
+        },
+        {
+          "year": 2013,
+          "value": 417.7
+        },
+        {
+          "year": 2014,
+          "value": 422
+        },
+        {
+          "year": 2015,
+          "value": 426
+        },
+        {
+          "year": 2016,
+          "value": 426
+        }
+      ]
+    },
+    "23": {
+      "region": "Đông Bắc Bộ",
+      "area": "Phú Thọ",
+      "density": [
+        {
+          "year": 2011,
+          "value": 376.2
+        },
+        {
+          "year": 2012,
+          "value": 379.5
+        },
+        {
+          "year": 2013,
+          "value": 382.4
+        },
+        {
+          "year": 2014,
+          "value": 385
+        },
+        {
+          "year": 2015,
+          "value": 388
+        },
+        {
+          "year": 2016,
+          "value": 391
+        }
+      ]
+    },
+    "24": {
+      "region": "Tây Bắc Bộ",
+      "area": "Điện Biên",
+      "density": [
+        {
+          "year": 2011,
+          "value": 53.4
+        },
+        {
+          "year": 2012,
+          "value": 54.3
+        },
+        {
+          "year": 2013,
+          "value": 55.3
+        },
+        {
+          "year": 2014,
+          "value": 56
+        },
+        {
+          "year": 2015,
+          "value": 57
+        },
+        {
+          "year": 2016,
+          "value": 58
+        }
+      ]
+    },
+    "25": {
+      "region": "Tây Bắc Bộ",
+      "area": "Lai Châu",
+      "density": [
+        {
+          "year": 2011,
+          "value": 42.9
+        },
+        {
+          "year": 2012,
+          "value": 43.8
+        },
+        {
+          "year": 2013,
+          "value": 44.7
+        },
+        {
+          "year": 2014,
+          "value": 46
+        },
+        {
+          "year": 2015,
+          "value": 47
+        },
+        {
+          "year": 2016,
+          "value": 48
+        }
+      ]
+    },
+    "26": {
+      "region": "Tây Bắc Bộ",
+      "area": "Sơn La",
+      "density": [
+        {
+          "year": 2011,
+          "value": 78.9
+        },
+        {
+          "year": 2012,
+          "value": 80
+        },
+        {
+          "year": 2013,
+          "value": 81.2
+        },
+        {
+          "year": 2014,
+          "value": 82
+        },
+        {
+          "year": 2015,
+          "value": 83
+        },
+        {
+          "year": 2016,
+          "value": 86
+        }
+      ]
+    },
+    "27": {
+      "region": "Tây Bắc Bộ",
+      "area": "Hoà Bình",
+      "density": [
+        {
+          "year": 2011,
+          "value": 173.4
+        },
+        {
+          "year": 2012,
+          "value": 174.7
+        },
+        {
+          "year": 2013,
+          "value": 175.8
+        },
+        {
+          "year": 2014,
+          "value": 177
+        },
+        {
+          "year": 2015,
+          "value": 179
+        },
+        {
+          "year": 2016,
+          "value": 181
+        }
+      ]
+    },
+    "28": {
+      "region": "none",
+      "area": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "density": [
+        {
+          "year": 2011,
+          "value": 199.3
+        },
+        {
+          "year": 2012,
+          "value": 200.8
+        },
+        {
+          "year": 2013,
+          "value": 202.3
+        },
+        {
+          "year": 2014,
+          "value": 204
+        },
+        {
+          "year": 2015,
+          "value": 205
+        },
+        {
+          "year": 2016,
+          "value": 207
+        }
+      ]
+    },
+    "29": {
+      "region": "Bắc Trung Bộ",
+      "area": "Thanh Hoá",
+      "density": [
+        {
+          "year": 2011,
+          "value": 308.8
+        },
+        {
+          "year": 2012,
+          "value": 310.6
+        },
+        {
+          "year": 2013,
+          "value": 312.4
+        },
+        {
+          "year": 2014,
+          "value": 314
+        },
+        {
+          "year": 2015,
+          "value": 316
+        },
+        {
+          "year": 2016,
+          "value": 317
+        }
+      ]
+    },
+    "30": {
+      "region": "Bắc Trung Bộ",
+      "area": "Nghệ An",
+      "density": [
+        {
+          "year": 2011,
+          "value": 179.2
+        },
+        {
+          "year": 2012,
+          "value": 180.9
+        },
+        {
+          "year": 2013,
+          "value": 182.6
+        },
+        {
+          "year": 2014,
+          "value": 184
+        },
+        {
+          "year": 2015,
+          "value": 186
+        },
+        {
+          "year": 2016,
+          "value": 188
+        }
+      ]
+    },
+    "31": {
+      "region": "Bắc Trung Bộ",
+      "area": "Hà Tĩnh",
+      "density": [
+        {
+          "year": 2011,
+          "value": 206.4
+        },
+        {
+          "year": 2012,
+          "value": 207.3
+        },
+        {
+          "year": 2013,
+          "value": 208.3
+        },
+        {
+          "year": 2014,
+          "value": 209
+        },
+        {
+          "year": 2015,
+          "value": 210
+        },
+        {
+          "year": 2016,
+          "value": 211
+        }
+      ]
+    },
+    "32": {
+      "region": "Bắc Trung Bộ",
+      "area": "Quảng Bình",
+      "density": [
+        {
+          "year": 2011,
+          "value": 105.8
+        },
+        {
+          "year": 2012,
+          "value": 106.4
+        },
+        {
+          "year": 2013,
+          "value": 107.1
+        },
+        {
+          "year": 2014,
+          "value": 108
+        },
+        {
+          "year": 2015,
+          "value": 108
+        },
+        {
+          "year": 2016,
+          "value": 110
+        }
+      ]
+    },
+    "33": {
+      "region": "Bắc Trung Bộ",
+      "area": "Quảng Trị",
+      "density": [
+        {
+          "year": 2011,
+          "value": 127.6
+        },
+        {
+          "year": 2012,
+          "value": 128.3
+        },
+        {
+          "year": 2013,
+          "value": 129.3
+        },
+        {
+          "year": 2014,
+          "value": 130
+        },
+        {
+          "year": 2015,
+          "value": 131
+        },
+        {
+          "year": 2016,
+          "value": 135
+        }
+      ]
+    },
+    "34": {
+      "region": "Bắc Trung Bộ",
+      "area": "Thừa Thiên Huế",
+      "density": [
+        {
+          "year": 2011,
+          "value": 219.2
+        },
+        {
+          "year": 2012,
+          "value": 221.3
+        },
+        {
+          "year": 2013,
+          "value": 223.1
+        },
+        {
+          "year": 2014,
+          "value": 225
+        },
+        {
+          "year": 2015,
+          "value": 227
+        },
+        {
+          "year": 2016,
+          "value": 235
+        }
+      ]
+    },
+    "35": {
+      "region": "Nam Trung Bộ",
+      "area": "Đà Nẵng",
+      "density": [
+        {
+          "year": 2011,
+          "value": 736
+        },
+        {
+          "year": 2012,
+          "value": 751.8
+        },
+        {
+          "year": 2013,
+          "value": 767.7
+        },
+        {
+          "year": 2014,
+          "value": 784
+        },
+        {
+          "year": 2015,
+          "value": 800
+        },
+        {
+          "year": 2016,
+          "value": 814
+        }
+      ]
+    },
+    "36": {
+      "region": "Nam Trung Bộ",
+      "area": "Quảng Nam",
+      "density": [
+        {
+          "year": 2011,
+          "value": 138.2
+        },
+        {
+          "year": 2012,
+          "value": 139.2
+        },
+        {
+          "year": 2013,
+          "value": 140.2
+        },
+        {
+          "year": 2014,
+          "value": 141
+        },
+        {
+          "year": 2015,
+          "value": 142
+        },
+        {
+          "year": 2016,
+          "value": 141
+        }
+      ]
+    },
+    "37": {
+      "region": "Nam Trung Bộ",
+      "area": "Quảng Ngãi",
+      "density": [
+        {
+          "year": 2011,
+          "value": 237.8
+        },
+        {
+          "year": 2012,
+          "value": 238.7
+        },
+        {
+          "year": 2013,
+          "value": 240
+        },
+        {
+          "year": 2014,
+          "value": 241
+        },
+        {
+          "year": 2015,
+          "value": 242
+        },
+        {
+          "year": 2016,
+          "value": 243
+        }
+      ]
+    },
+    "38": {
+      "region": "Nam Trung Bộ",
+      "area": "Bình Định",
+      "density": [
+        {
+          "year": 2011,
+          "value": 247.6
+        },
+        {
+          "year": 2012,
+          "value": 248.3
+        },
+        {
+          "year": 2013,
+          "value": 249.4
+        },
+        {
+          "year": 2014,
+          "value": 250
+        },
+        {
+          "year": 2015,
+          "value": 251
+        },
+        {
+          "year": 2016,
+          "value": 251
+        }
+      ]
+    },
+    "39": {
+      "region": "Nam Trung Bộ",
+      "area": "Phú Yên",
+      "density": [
+        {
+          "year": 2011,
+          "value": 171.9
+        },
+        {
+          "year": 2012,
+          "value": 173.1
+        },
+        {
+          "year": 2013,
+          "value": 174.3
+        },
+        {
+          "year": 2014,
+          "value": 175
+        },
+        {
+          "year": 2015,
+          "value": 177
+        },
+        {
+          "year": 2016,
+          "value": 179
+        }
+      ]
+    },
+    "40": {
+      "region": "Nam Trung Bộ",
+      "area": "Khánh Hoà",
+      "density": [
+        {
+          "year": 2011,
+          "value": 224.5
+        },
+        {
+          "year": 2012,
+          "value": 226.2
+        },
+        {
+          "year": 2013,
+          "value": 227.8
+        },
+        {
+          "year": 2014,
+          "value": 229
+        },
+        {
+          "year": 2015,
+          "value": 231
+        },
+        {
+          "year": 2016,
+          "value": 236
+        }
+      ]
+    },
+    "41": {
+      "region": "Nam Trung Bộ",
+      "area": "Ninh Thuận",
+      "density": [
+        {
+          "year": 2011,
+          "value": 170.9
+        },
+        {
+          "year": 2012,
+          "value": 172.5
+        },
+        {
+          "year": 2013,
+          "value": 174.2
+        },
+        {
+          "year": 2014,
+          "value": 176
+        },
+        {
+          "year": 2015,
+          "value": 177
+        },
+        {
+          "year": 2016,
+          "value": 179
+        }
+      ]
+    },
+    "42": {
+      "region": "Nam Trung Bộ",
+      "area": "Bình Thuận",
+      "density": [
+        {
+          "year": 2011,
+          "value": 151.6
+        },
+        {
+          "year": 2012,
+          "value": 152.5
+        },
+        {
+          "year": 2013,
+          "value": 153.5
+        },
+        {
+          "year": 2014,
+          "value": 155
+        },
+        {
+          "year": 2015,
+          "value": 156
+        },
+        {
+          "year": 2016,
+          "value": 154
+        }
+      ]
+    },
+    "43": {
+      "region": "none",
+      "area": "Tây Nguyên",
+      "density": [
+        {
+          "year": 2011,
+          "value": 96.7
+        },
+        {
+          "year": 2012,
+          "value": 98.2
+        },
+        {
+          "year": 2013,
+          "value": 99.7
+        },
+        {
+          "year": 2014,
+          "value": 101
+        },
+        {
+          "year": 2015,
+          "value": 103
+        },
+        {
+          "year": 2016,
+          "value": 104
+        }
+      ]
+    },
+    "44": {
+      "region": "Tây Nguyên",
+      "area": "Kon Tum",
+      "density": [
+        {
+          "year": 2011,
+          "value": 46.6
+        },
+        {
+          "year": 2012,
+          "value": 47.8
+        },
+        {
+          "year": 2013,
+          "value": 48.8
+        },
+        {
+          "year": 2014,
+          "value": 50
+        },
+        {
+          "year": 2015,
+          "value": 51
+        },
+        {
+          "year": 2016,
+          "value": 52
+        }
+      ]
+    },
+    "45": {
+      "region": "Tây Nguyên",
+      "area": "Gia Lai",
+      "density": [
+        {
+          "year": 2011,
+          "value": 85.1
+        },
+        {
+          "year": 2012,
+          "value": 86.3
+        },
+        {
+          "year": 2013,
+          "value": 87.5
+        },
+        {
+          "year": 2014,
+          "value": 89
+        },
+        {
+          "year": 2015,
+          "value": 90
+        },
+        {
+          "year": 2016,
+          "value": 91
+        }
+      ]
+    },
+    "46": {
+      "region": "Tây Nguyên",
+      "area": "Đắk Lắk",
+      "density": [
+        {
+          "year": 2011,
+          "value": 134.9
+        },
+        {
+          "year": 2012,
+          "value": 136.5
+        },
+        {
+          "year": 2013,
+          "value": 138.1
+        },
+        {
+          "year": 2014,
+          "value": 140
+        },
+        {
+          "year": 2015,
+          "value": 141
+        },
+        {
+          "year": 2016,
+          "value": 144
+        }
+      ]
+    },
+    "47": {
+      "region": "Tây Nguyên",
+      "area": "Đắk Nông",
+      "density": [
+        {
+          "year": 2011,
+          "value": 79.7
+        },
+        {
+          "year": 2012,
+          "value": 82.4
+        },
+        {
+          "year": 2013,
+          "value": 85.2
+        },
+        {
+          "year": 2014,
+          "value": 88
+        },
+        {
+          "year": 2015,
+          "value": 90
+        },
+        {
+          "year": 2016,
+          "value": 93
+        }
+      ]
+    },
+    "48": {
+      "region": "Tây Nguyên",
+      "area": "Lâm Đồng",
+      "density": [
+        {
+          "year": 2011,
+          "value": 124.7
+        },
+        {
+          "year": 2012,
+          "value": 126.1
+        },
+        {
+          "year": 2013,
+          "value": 127.4
+        },
+        {
+          "year": 2014,
+          "value": 129
+        },
+        {
+          "year": 2015,
+          "value": 130
+        },
+        {
+          "year": 2016,
+          "value": 132
+        }
+      ]
+    },
+    "49": {
+      "region": "none",
+      "area": "Đông Nam Bộ",
+      "density": [
+        {
+          "year": 2011,
+          "value": 627.2
+        },
+        {
+          "year": 2012,
+          "value": 641.2
+        },
+        {
+          "year": 2013,
+          "value": 655.3
+        },
+        {
+          "year": 2014,
+          "value": 669
+        },
+        {
+          "year": 2015,
+          "value": 684
+        },
+        {
+          "year": 2016,
+          "value": 697
+        }
+      ]
+    },
+    "50": {
+      "region": "Đông Nam Bộ",
+      "area": "Bình Phước",
+      "density": [
+        {
+          "year": 2011,
+          "value": 130.6
+        },
+        {
+          "year": 2012,
+          "value": 132.3
+        },
+        {
+          "year": 2013,
+          "value": 134
+        },
+        {
+          "year": 2014,
+          "value": 136
+        },
+        {
+          "year": 2015,
+          "value": 137
+        },
+        {
+          "year": 2016,
+          "value": 139
+        }
+      ]
+    },
+    "51": {
+      "region": "Đông Nam Bộ",
+      "area": "Tây Ninh",
+      "density": [
+        {
+          "year": 2011,
+          "value": 267.8
+        },
+        {
+          "year": 2012,
+          "value": 269.7
+        },
+        {
+          "year": 2013,
+          "value": 272
+        },
+        {
+          "year": 2014,
+          "value": 274
+        },
+        {
+          "year": 2015,
+          "value": 276
+        },
+        {
+          "year": 2016,
+          "value": 277
+        }
+      ]
+    },
+    "52": {
+      "region": "Đông Nam Bộ",
+      "area": "Bình Dương",
+      "density": [
+        {
+          "year": 2011,
+          "value": 615.8
+        },
+        {
+          "year": 2012,
+          "value": 642.4
+        },
+        {
+          "year": 2013,
+          "value": 669
+        },
+        {
+          "year": 2014,
+          "value": 695
+        },
+        {
+          "year": 2015,
+          "value": 723
+        },
+        {
+          "year": 2016,
+          "value": 741
+        }
+      ]
+    },
+    "53": {
+      "region": "Đông Nam Bộ",
+      "area": "Đồng Nai",
+      "density": [
+        {
+          "year": 2011,
+          "value": 446.9
+        },
+        {
+          "year": 2012,
+          "value": 458.4
+        },
+        {
+          "year": 2013,
+          "value": 469.4
+        },
+        {
+          "year": 2014,
+          "value": 481
+        },
+        {
+          "year": 2015,
+          "value": 492
+        },
+        {
+          "year": 2016,
+          "value": 505
+        }
+      ]
+    },
+    "54": {
+      "region": "Đông Nam Bộ",
+      "area": "Bà Rịa - Vũng Tàu",
+      "density": [
+        {
+          "year": 2011,
+          "value": 513.9
+        },
+        {
+          "year": 2012,
+          "value": 519.2
+        },
+        {
+          "year": 2013,
+          "value": 526
+        },
+        {
+          "year": 2014,
+          "value": 533
+        },
+        {
+          "year": 2015,
+          "value": 539
+        },
+        {
+          "year": 2016,
+          "value": 551
+        }
+      ]
+    },
+    "55": {
+      "region": "Đông Nam Bộ",
+      "area": "TP.Hồ Chí Minh",
+      "density": [
+        {
+          "year": 2011,
+          "value": 3578.2
+        },
+        {
+          "year": 2012,
+          "value": 3655.4
+        },
+        {
+          "year": 2013,
+          "value": 3731.6
+        },
+        {
+          "year": 2014,
+          "value": 3809
+        },
+        {
+          "year": 2015,
+          "value": 3888
+        },
+        {
+          "year": 2016,
+          "value": 4025
+        }
+      ]
+    },
+    "56": {
+      "region": "none",
+      "area": "Đồng bằng sông Cửu Long",
+      "density": [
+        {
+          "year": 2011,
+          "value": 426.8
+        },
+        {
+          "year": 2012,
+          "value": 428.6
+        },
+        {
+          "year": 2013,
+          "value": 430.1
+        },
+        {
+          "year": 2014,
+          "value": 432
+        },
+        {
+          "year": 2015,
+          "value": 434
+        },
+        {
+          "year": 2016,
+          "value": 433
+        }
+      ]
+    },
+    "57": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Long An",
+      "density": [
+        {
+          "year": 2011,
+          "value": 322.7
+        },
+        {
+          "year": 2012,
+          "value": 325.1
+        },
+        {
+          "year": 2013,
+          "value": 327.2
+        },
+        {
+          "year": 2014,
+          "value": 329
+        },
+        {
+          "year": 2015,
+          "value": 330
+        },
+        {
+          "year": 2016,
+          "value": 332
+        }
+      ]
+    },
+    "58": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Tiền Giang",
+      "density": [
+        {
+          "year": 2011,
+          "value": 670.8
+        },
+        {
+          "year": 2012,
+          "value": 674.8
+        },
+        {
+          "year": 2013,
+          "value": 679
+        },
+        {
+          "year": 2014,
+          "value": 684
+        },
+        {
+          "year": 2015,
+          "value": 689
+        },
+        {
+          "year": 2016,
+          "value": 693
+        }
+      ]
+    },
+    "59": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Bến Tre",
+      "density": [
+        {
+          "year": 2011,
+          "value": 532.7
+        },
+        {
+          "year": 2012,
+          "value": 534
+        },
+        {
+          "year": 2013,
+          "value": 534.3
+        },
+        {
+          "year": 2014,
+          "value": 535
+        },
+        {
+          "year": 2015,
+          "value": 536
+        },
+        {
+          "year": 2016,
+          "value": 528
+        }
+      ]
+    },
+    "60": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Trà Vinh",
+      "density": [
+        {
+          "year": 2011,
+          "value": 432.7
+        },
+        {
+          "year": 2012,
+          "value": 435
+        },
+        {
+          "year": 2013,
+          "value": 437.3
+        },
+        {
+          "year": 2014,
+          "value": 440
+        },
+        {
+          "year": 2015,
+          "value": 442
+        },
+        {
+          "year": 2016,
+          "value": 441
+        }
+      ]
+    },
+    "61": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Vĩnh Long",
+      "density": [
+        {
+          "year": 2011,
+          "value": 687.5
+        },
+        {
+          "year": 2012,
+          "value": 687.4
+        },
+        {
+          "year": 2013,
+          "value": 682.7
+        },
+        {
+          "year": 2014,
+          "value": 685
+        },
+        {
+          "year": 2015,
+          "value": 687
+        },
+        {
+          "year": 2016,
+          "value": 687
+        }
+      ]
+    },
+    "62": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Đồng Tháp",
+      "density": [
+        {
+          "year": 2011,
+          "value": 495
+        },
+        {
+          "year": 2012,
+          "value": 496
+        },
+        {
+          "year": 2013,
+          "value": 496.7
+        },
+        {
+          "year": 2014,
+          "value": 498
+        },
+        {
+          "year": 2015,
+          "value": 498
+        },
+        {
+          "year": 2016,
+          "value": 499
+        }
+      ]
+    },
+    "63": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "An Giang",
+      "density": [
+        {
+          "year": 2011,
+          "value": 607.6
+        },
+        {
+          "year": 2012,
+          "value": 608.3
+        },
+        {
+          "year": 2013,
+          "value": 608.8
+        },
+        {
+          "year": 2014,
+          "value": 610
+        },
+        {
+          "year": 2015,
+          "value": 610
+        },
+        {
+          "year": 2016,
+          "value": 611
+        }
+      ]
+    },
+    "64": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Kiên Giang",
+      "density": [
+        {
+          "year": 2011,
+          "value": 269.5
+        },
+        {
+          "year": 2012,
+          "value": 271.5
+        },
+        {
+          "year": 2013,
+          "value": 273.2
+        },
+        {
+          "year": 2014,
+          "value": 275
+        },
+        {
+          "year": 2015,
+          "value": 277
+        },
+        {
+          "year": 2016,
+          "value": 280
+        }
+      ]
+    },
+    "65": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Cần Thơ",
+      "density": [
+        {
+          "year": 2011,
+          "value": 857.3
+        },
+        {
+          "year": 2012,
+          "value": 864.7
+        },
+        {
+          "year": 2013,
+          "value": 871.9
+        },
+        {
+          "year": 2014,
+          "value": 879
+        },
+        {
+          "year": 2015,
+          "value": 886
+        },
+        {
+          "year": 2016,
+          "value": 874
+        }
+      ]
+    },
+    "66": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Hậu Giang",
+      "density": [
+        {
+          "year": 2011,
+          "value": 475.3
+        },
+        {
+          "year": 2012,
+          "value": 476.6
+        },
+        {
+          "year": 2013,
+          "value": 478.2
+        },
+        {
+          "year": 2014,
+          "value": 480
+        },
+        {
+          "year": 2015,
+          "value": 481
+        },
+        {
+          "year": 2016,
+          "value": 476
+        }
+      ]
+    },
+    "67": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Sóc Trăng",
+      "density": [
+        {
+          "year": 2011,
+          "value": 392.1
+        },
+        {
+          "year": 2012,
+          "value": 393
+        },
+        {
+          "year": 2013,
+          "value": 394
+        },
+        {
+          "year": 2014,
+          "value": 395
+        },
+        {
+          "year": 2015,
+          "value": 396
+        },
+        {
+          "year": 2016,
+          "value": 396
+        }
+      ]
+    },
+    "68": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Bạc Liêu",
+      "density": [
+        {
+          "year": 2011,
+          "value": 350.3
+        },
+        {
+          "year": 2012,
+          "value": 352.1
+        },
+        {
+          "year": 2013,
+          "value": 353.9
+        },
+        {
+          "year": 2014,
+          "value": 356
+        },
+        {
+          "year": 2015,
+          "value": 357
+        },
+        {
+          "year": 2016,
+          "value": 332
+        }
+      ]
+    },
+    "69": {
+      "region": "Đồng bằng sông Cửu Long",
+      "area": "Cà Mau",
+      "density": [
+        {
+          "year": 2011,
+          "value": 228.5
+        },
+        {
+          "year": 2012,
+          "value": 228.9
+        },
+        {
+          "year": 2013,
+          "value": 229.3
+        },
+        {
+          "year": 2014,
+          "value": 230
+        },
+        {
+          "year": 2015,
+          "value": 230
+        },
+        {
+          "year": 2016,
+          "value": 234
+        }
+      ]
+    }
+  }
+}

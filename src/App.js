@@ -1,28 +1,26 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import BudgetPlanner from './components/BudgetPlanner';
+import PopulationDensity from './components/PopulationDensity';
+import PopulationDensityLatest from './components/PopulationDensityLatest';
+import Navbar from './components/layouts/Navbar';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-class App extends Component {
-  render() {
+const App = () => {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+        <BrowserRouter>
+        <div className="App">
+          <Navbar />
+          <div className="container section">
+          <Switch>
+            <Route exact path="/" component={PopulationDensityLatest} />
+            <Route path="/budget-planner" component={BudgetPlanner} />
+            <Route path="/population-density/:name?" component={PopulationDensity} />
+            <Route path="/population-density-latest" component={PopulationDensityLatest} />
+          </Switch>
+          </div>
+        </div>
+      </BrowserRouter>
     );
-  }
 }
 
 export default App;

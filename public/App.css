@@ -1,0 +1,48 @@
+.gradient-45deg-indigo-purple
+{
+  background: #303f9f;
+  background: -webkit-linear-gradient(45deg, #303f9f, #7b1fa2) !important;
+  background: -moz- oldlinear-gradient(45deg, #303f9f, #7b1fa2) !important;
+  background: -o-linear-gradient(45deg, #303f9f, #7b1fa2) !important;
+  background: linear-gradient(45deg, #303f9f, #7b1fa2) !important;
+}
+
+.gradient-45deg-light-blue-cyan {
+  background: #0288d1;
+  background: -webkit-linear-gradient(45deg, #0288d1, #26c6da) !important;
+  background: -moz- oldlinear-gradient(45deg, #0288d1, #26c6da) !important;
+  background: -o-linear-gradient(45deg, #0288d1, #26c6da) !important;
+  background: linear-gradient(45deg, #0288d1, #26c6da) !important;
+}
+
+.gradient-45deg-purple-deep-orange {
+  background: #8e24aa;
+  background: -webkit-linear-gradient(45deg, #8e24aa, #ff6e40) !important;
+  background: -moz- oldlinear-gradient(45deg, #8e24aa, #ff6e40) !important;
+  background: -o-linear-gradient(45deg, #8e24aa, #ff6e40) !important;
+  background: linear-gradient(45deg, #8e24aa, #ff6e40) !important;
+}
+
+.gradient-45deg-green-teal {
+  background: #43a047;
+  background: -webkit-linear-gradient(45deg, #43a047, #1de9b6) !important;
+  background: -moz- oldlinear-gradient(45deg, #43a047, #1de9b6) !important;
+  background: -o-linear-gradient(45deg, #43a047, #1de9b6) !important;
+  background: linear-gradient(45deg, #43a047, #1de9b6) !important;
+}
+
+.gradient-45deg-amber-amber {
+  background: #ff6f00;
+  background: -webkit-linear-gradient(45deg, #ff6f00, #ffca28) !important;
+  background: -moz- oldlinear-gradient(45deg, #ff6f00, #ffca28) !important;
+  background: -o-linear-gradient(45deg, #ff6f00, #ffca28) !important;
+  background: linear-gradient(45deg, #ff6f00, #ffca28) !important;
+}
+
+.gradient-50deg-close-heat {
+  background: #F62D51;
+  background: -webkit-linear-gradient(50deg, HSLA(205, 62%, 44%, 1), #F62D51) !important;
+  background: -moz- oldlinear-gradient(50deg, HSLA(205, 62%, 44%, 1), #F62D51) !important;
+  background: -o-linear-gradient(50deg, HSLA(205, 62%, 44%, 1), #F62D51) !important;
+  background: linear-gradient(50deg, HSLA(205, 62%, 44%, 1), #F62D51) !important;
+}
