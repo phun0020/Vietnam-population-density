@@ -5,8 +5,8 @@ import { legendColor } from 'd3-svg-legend';
 
 const BubbleChart = ({ data, redirectTo }) => {
     // constants
-    const margin = { top: 40, right: 20, bottom: 50, left: 50 };
-    const graphWidth = 1200 - margin.left - margin.right;
+    const margin = { top: 20, right: 20, bottom: 30, left: 50 };
+    const graphWidth = 800 - margin.left - margin.right;
     const graphHeight = 600 - margin.top - margin.bottom;
     const radiusRange = [10, 100];
 
@@ -30,6 +30,12 @@ const BubbleChart = ({ data, redirectTo }) => {
             return content;
         });
 
+    // https://www.d3-graph-gallery.com/graph/circularpacking_template.html
+    const simulation = d3.forceSimulation()
+        .force("center", d3.forceCenter().x(graphWidth / 2).y(graphHeight / 2)) // Attraction to the center of the svg area
+        .force("charge", d3.forceManyBody().strength(.1)) // Nodes are attracted one each other of value is > 0
+        .force("collide", d3.forceCollide().strength(.2).radius(d => size(d.value)+3).iterations(1)) // Force that avoids circle overlapping
+
     const setup = () => {
         const svg = d3.select('.canvas')
             .append('svg')
@@ -40,7 +46,7 @@ const BubbleChart = ({ data, redirectTo }) => {
             .attr('class', 'graph')
             .attr('width', graphWidth)
             .attr('height', graphHeight)
-            .attr('transform', `translate(${0}, ${margin.top})`);
+            .attr('transform', `translate(${margin.left + 50}, ${-margin.top})`);
 
         svg.append('g')
             .attr('class', 'legendGroup')
@@ -84,12 +90,6 @@ const BubbleChart = ({ data, redirectTo }) => {
         .on("start", dragstarted)
         .on("drag", dragged)
         .on("end", dragended));
-        
-        // https://www.d3-graph-gallery.com/graph/circularpacking_template.html
-        var simulation = d3.forceSimulation()
-            .force("center", d3.forceCenter().x(graphWidth / 2).y(graphHeight / 2)) // Attraction to the center of the svg area
-            .force("charge", d3.forceManyBody().strength(.1)) // Nodes are attracted one each other of value is > 0
-            .force("collide", d3.forceCollide().strength(.2).radius(function(d){ return (size(d.value)+3) }).iterations(1)) // Force that avoids circle overlapping
         
          // Apply these forces to the nodes and update their positions.
         // Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
