@@ -17,7 +17,7 @@ export default function Navbar() {
           </Link>
           <ul id="nav-mobile" className="left hide-on-med-and-down">
             <li><Link to="/"><i className="fas fa-cookie"></i> Vietnam Population Density</Link></li>
-            <li><Link to="/budget-planner"><i className="fas fa-chart-pie"></i> Unrelated Pie Chart</Link></li>
+            {/* <li><Link to="/budget-planner"><i className="fas fa-chart-pie"></i> Unrelated Pie Chart</Link></li> */}
             <li><a href='https://github.com/phun0020/Vietnam-population-density' target='_blank' rel='noopener noreferrer'><strong><i className="fab fa-github"></i> Source</strong></a></li>
           </ul>
         </div>
